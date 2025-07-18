@@ -1,4 +1,4 @@
-# 🖐️ HAND-REU: Inflatable Electroadhesive Clutches
+# 🖐️ HAND REU: Inflatable Electroadhesive Clutches
 
 Welcome to the repository for the **Inflatable Electroadhesive (EA) Clutches** project, part of the [NSF HAND REU](https://hand-erc.org/) program at Northwestern University.
 
