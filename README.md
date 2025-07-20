@@ -8,7 +8,7 @@ This project focuses on the **design, fabrication, and experimental modeling** o
 
 # 👨‍🔬 Contributors
 
-- **Eren Erenel** – Undergraduate Researcher, Northwestern University  
+- **Eren Erenel:**  Undergraduate Researcher, Northwestern University  
 - **Damian Gonzalez:** Mentor, Northwestern University
 - **Affiliation:** Center for Robotics and Biosystems, Northwestern University
 
