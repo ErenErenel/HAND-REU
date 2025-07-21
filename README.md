@@ -6,7 +6,7 @@ This project focuses on the **design, fabrication, and experimental modeling** o
 
 ---
 
-# 👨‍🔬 Contributors
+# Contributors
 
 - **Eren Erenel:**  Undergraduate Researcher, Northwestern University  
 - **Damian Gonzalez:** Mentor, Northwestern University
