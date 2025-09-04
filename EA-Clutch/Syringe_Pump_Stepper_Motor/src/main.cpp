@@ -57,10 +57,10 @@ void loop() {
   bool stopPressed = digitalRead(STOP_BUTTON) == LOW;
 
   if (cwPressed) {
-    stepper.setSpeed(400);  // Clockwise
+    stepper.setSpeed(300);  // Clockwise
   }
   else if (ccwPressed) {
-    stepper.setSpeed(-400); // Counterclockwise
+    stepper.setSpeed(-300); // Counterclockwise
   }
   else if (stopPressed) {
     stepper.setSpeed(0);    // Stop
